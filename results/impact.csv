@@ -1,0 +1,7 @@
+site,case,MWh,EUR_k_low,EUR_k_high,tCO2
+"Golden, Colorado (real site)",central (12 months after step),1350,107.5,146.1,634.8
+"Golden, Colorado (real site)",low (2025 level),886,70.6,95.9,416.6
+"Golden, Colorado (real site)",high (2024 level),1486,118.3,160.8,698.7
+"Grenoble, France (what-if)",central (12 months after step),1350,148.6,148.6,29.3
+"Grenoble, France (what-if)",low (2025 level),886,97.5,97.5,19.2
+"Grenoble, France (what-if)",high (2024 level),1486,163.6,163.6,32.2
